@@ -18,5 +18,6 @@ to understand how the most massive black holes in the early Universe
 could form in their (very) short life-time. 
 The main part of my work is devoted to blazars. 
 Thanks to their peculiar orientation, they are the perfect 
-tools to study if the presence of a jet has a significant role in 
-fast accretion processes. 
+tools to study the role of jets in the physics of Active Galactic Nuclei.
+
+ 
