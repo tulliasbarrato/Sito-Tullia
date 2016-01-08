@@ -91,15 +91,36 @@ Experiences
 
 - *Reviewer* for The Astrophysical Journal (ApJ) and the Monthly Notices of the Royal Astronomical Society (MNRAS)
 - *Co-supervisor* of University students for their final Theses:
-
     * Matteo Hakeem Kushoro (Bachelor Degree)
     * Denny Zanchi (Bachelor Degree)
 
 - *Scientific Assistant* at the ESO OPC P94 and P93
 - *Studentship* at the European Southern Observatory, during the last year of the Ph.D. studies
-- *Stages* at the Brera Observatory (INAF-OAB) in Merate, both for the Bachelor and the Master Degree.
+- *Stages* at the Brera Observatory (INAF-OAB) in Merate, to work on both my Bachelor and my Master Theses.
 
 
+Computer Skills
+---------------
+
+**OS:** Mac OS X, Linux/Unix, Windows
+
+**Languages:** C/C++, Python
+
+**Typesetting:** Latex, Microsoft Office
+
+**Specific Softwares:** TopCat, SuperMongo, ftools, QDP, IRAF, Xspec
+
+
+Languages
+---------
+
+Italian: mother tongue
+
+English: fluent
+
+French: basic
+
+German: basic
 
 
 
