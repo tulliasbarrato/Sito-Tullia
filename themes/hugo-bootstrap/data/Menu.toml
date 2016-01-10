@@ -1,0 +1,30 @@
+[about]
+    Name = "About Me"
+    IconClass = "fa-info-circle"
+    URL = "about"
+
+[papers]
+    Name = "Publications"
+    Title = "Publications"
+    URL = "papers"
+
+[cv]
+    Name = "My CV"
+    Title = "My CV"
+    URL = "cv"
+
+[meetings]
+    Name = "Meetings & Talks"
+    Title = "Meetings & Talks"
+    URL = "meetings"
+
+[outreach]
+    Name = "Outreach"
+    Title = "Outreach"
+    URL = "outreach"
+
+
+# [tags]
+  #  Name = "Tags"
+  #  Title = "Show list of tags"
+  #  URL = "/tags"
