@@ -1,1 +1,15 @@
-{{.Content}}
+{{ partial "head" . }}
+  <body id="top">
+    {{ partial "header" . }}
+
+    <div id="main">
+
+      {{ .Title}}
+
+      {{ .Content}}
+
+    </div>
+
+    {{ partial "footer" . }}
+  </body>
+</html>
