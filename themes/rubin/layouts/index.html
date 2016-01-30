@@ -4,14 +4,16 @@
 
     {{ "<!-- Main -->" | safeHTML }}
     <div id="main">
+
+      <h2>About</h2>
       {{ range where .Data.Pages "Type" "about"}}
-        <h2>About</h2>
         {{ .Content }}
       {{ end }}
-      <h2>Work</h2>
+
       <section id="two">
+        <h2>Work</h2>
         <div class="row">
-          {{ range .Data.Pages }}
+          {{ range where .Data.Pages "Type" "work"}}
           <article class="6u 12u$(xsmall)">
             <a href="{{ .Permalink }}">{{ .Title }}</a>
           </article>
