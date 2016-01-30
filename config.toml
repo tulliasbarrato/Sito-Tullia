@@ -82,7 +82,6 @@ disqusShortname = "your_disqus_shortname"
       copyright = [
         "&copy; Tullia Sbarrato",
         "Design: [HTML5 UP](//html5up.net)",
-        "Demo Images: [Unsplash](//unsplash.com/)"
       ]
 
     [params.about]

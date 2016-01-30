@@ -1,5 +1,12 @@
 {{ "<!-- Header -->" | safeHTML }}
 <header id="header">
-	<a href="#" class="image avatar"><img src="{{ .Site.BaseURL }}images/{{ .Site.Params.sidebar.avatar }}" alt="" /></a>
-	<h1>{{ .Site.Params.sidebar.bio | markdownify }}</h1>
+  <a href="{{ .Site.BaseURL }}" class="image avatar">
+    <img src="{{ .Site.BaseURL }}images/{{ .Site.Params.sidebar.avatar }}" alt="" />
+  </a>
+  <h1>
+    <strong>Tullia Sbarrato</strong><br>
+    Postdoc fellow in the Astrophysics group of the
+    Università degli Studi di Milano - Bicocca.
+  </h1>
+
 </header>
