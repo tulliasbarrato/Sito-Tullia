@@ -15,7 +15,7 @@
         <div class="row">
           {{ range where .Data.Pages "Type" "work"}}
           <article class="6u 12u$(xsmall)">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <a href="{{ .Permalink }}"><i class="fa fa-{{.Params.icon}}"></i> {{ .Title }}</a>
           </article>
           {{ end }}
         </div>

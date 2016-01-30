@@ -1,7 +1,8 @@
 +++
 date = "2016-01-08T15:50:13+01:00"
-draft = true
+draft = false
 title = "Curriculum Vitae"
+icon = "graduation-cap"
 
 +++
 
@@ -48,15 +49,15 @@ Awards & Grants
 - Assegno di Ricerca -- Research Grant
 
     Università degli Studi di Milano-Bicocca, from January 2015
-  
+
 - [ESO Studentship](https://recruitment.eso.org/jobs/2015_0034)
-    
+
     European Southern Observatory, September 2013 - September 2014
 
 - Borsa di Dottorato -- PhD Scholarship
 
     Università degli Studi dell'Insubria
-    
+
 
 **Telescope Time as Principal Investigator**
 
@@ -121,16 +122,3 @@ English: fluent
 French: basic
 
 German: basic
-
-
-
-
-
-
-
-
-
-
-
-
-
