@@ -1,7 +1,6 @@
 <!-- Three -->
 <section id="three">
-  {{ with .Site.Params.contact.title }}<h2>{{ . }}</h2>{{ end }}
-  {{ with .Site.Params.contact.content }}<p>{{ . }}</p>{{ end }}
+  <h2>Contacts</h2>
   <div class="row" id="contact-form">
     {{ range where .Data.Pages "Type" "contacts"}}
     <div class="8u 12u$(small)">
@@ -15,7 +14,7 @@
         </li>
         <li>
           <h3 class="icon fa-envelope-o"><span class="label"></span></h3>
-          <a href="#">{{ .Params.email }}</a>
+          <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
         </li>
       </ul>
     </div>
