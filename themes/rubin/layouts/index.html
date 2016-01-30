@@ -5,6 +5,7 @@
     {{ "<!-- Main -->" | safeHTML }}
     <div id="main">
       {{ range where .Data.Pages "Type" "about"}}
+        <h2>About</h2>
         {{ .Content }}
       {{ end }}
       {{ partial "portfolio" . }}
