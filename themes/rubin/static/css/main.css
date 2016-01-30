@@ -1967,6 +1967,10 @@
 		position: relative;
 	}
 
+	#footer .icons a.icon:hover, #footer .icons .ai:hover {
+		color: rgba(255, 255, 255, 0.9) !important;
+	}
+
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
@@ -1979,6 +1983,13 @@
 		.icon > .label {
 			display: none;
 		}
+
+	.icons .ai {
+		text-decoration: none;
+		border-bottom: none;
+		position: relative;
+		font-size: 1.5em;
+	}
 
 /* Image */
 
