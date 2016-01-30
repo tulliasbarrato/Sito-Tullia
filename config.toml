@@ -15,7 +15,7 @@ languageCode = "en-EN"
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "hugo-bootstrap"
+theme = "rubin"
 
 # Pagination
 paginate = 10
