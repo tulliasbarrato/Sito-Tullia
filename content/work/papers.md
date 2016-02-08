@@ -6,12 +6,12 @@ icon = "book"
 
 +++
 
-Impact index factor h=10, with 234 citations. 18 papers on refereed journals, 1 additional first author submitted paper (source: ADS, 8 November 2015).
+Impact index factor h=10, with 256 citations. 18 papers on refereed journals, 1 additional first author submitted paper (source: ADS, 1 February 2016).
 
 - [*Extremes of the jet-accretion power relation of blazars, as explored by NuSTAR.*](http://adsabs.harvard.edu/abs/2015arXiv151008849S)
   **T. Sbarrato**, G. Ghisellini, G. Tagliaferri, M. Perri, G.M. Madejski, D. Stern,
   S.E. Boggs, F.E. Christensen, W.W. Craig, C.J. Hailey, F.A. Harrison, W.W. Zhang;
-  submitted to MNRAS [arXiv:1510.08849]
+  submitted to ApJ [arXiv:1510.08849]
 
 - [*CMB quenching of high-redshift radio-loud AGNs.*](http://adsabs.harvard.edu/abs/2015MNRAS.452.3457G)
   G. Ghisellini, F. Haardt, B. Ciardi, **T. Sbarrato**, E. Gallo, F. Tavecchio, A. Celotti;
