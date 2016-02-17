@@ -6,7 +6,11 @@ icon = "users"
 
 +++
 
-- Talk at the first **YAGN meeting**, “Young Astronomers on Galactic Nucle''  
+- **Colloqium talk** at ASTRON/JIVE  
+  *Talk title:* Big and young SMBHs in the early Universe  
+  Dwingeloo (The Netherlands), 12 November 2015
+
+- Talk at the first **YAGN meeting**, “Young Astronomers on Galactic Nuclei''  
   *Talk title:* A closer look to big an young SMBHs in the early Universe  
   Milan (Italy), 29-30 October 2015
 
