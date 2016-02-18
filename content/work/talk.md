@@ -59,3 +59,7 @@ icon = "users"
 - Poster at **COSPAR10**, 38th COSPAR Scientific Assembly 
   *Poster title:* Study of the variability of Blazars gamma-ray emission  
   Bremen (Germany), 17–20 July 2010
+
+----
+
+Have a look at all my slides and presentations on [Speaker Deck](https://speakerdeck.com/tulliasbarrato)!
