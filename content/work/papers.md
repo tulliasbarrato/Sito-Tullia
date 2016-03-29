@@ -8,6 +8,10 @@ icon = "book"
 
 Impact index factor h=10, with 256 citations. 18 papers on refereed journals, 1 additional first author submitted paper (source: ADS, 1 February 2016).
 
+- [*Dark bubbles around high--redshift radio--loud AGN.*](http://adsabs.harvard.edu/abs/2016arXiv160305684G)  
+  G. Ghisellini, **T. Sbarrato**;  
+  submitted to MNRAS [arXiv:1603.05684]
+  
 - [*Extremes of the jet-accretion power relation of blazars, as explored by NuSTAR.*](http://adsabs.harvard.edu/abs/2015arXiv151008849S)  
   **T. Sbarrato**, G. Ghisellini, G. Tagliaferri, M. Perri, G.M. Madejski, D. Stern,
   S.E. Boggs, F.E. Christensen, W.W. Craig, C.J. Hailey, F.A. Harrison, W.W. Zhang;  
