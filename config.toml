@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "//virgilio.mib.infn.it/~sbarrato/"
+baseurl = "https://virgilio.mib.infn.it/~sbarrato/"
 
 # Site title
 title = "Tullia Sbarrato"
