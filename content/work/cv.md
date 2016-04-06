@@ -70,8 +70,9 @@ Experiences
 
 - *Reviewer* for The Astrophysical Journal (ApJ) and the Monthly Notices of the Royal Astronomical Society (MNRAS)
 - *Co-supervisor* of University students for their final Theses:  
+  * Samuele Campitiello (Master Degree)
   * Matteo Hakeem Kushoro (Bachelor Degree)
-  * Denny Zanchi (Bachelor Degree)  
+  * Denny Zanchi (Bachelor Degree - Thesis discussed in February 2016)  
 - *Scientific Assistant* at the ESO OPC P94 and P93
 - *Studentship* at the European Southern Observatory, during the last year of the Ph.D. studies
 - *Stages* at the Brera Observatory (INAF-OAB) in Merate, to work on both my Bachelor and my Master Theses.
