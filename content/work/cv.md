@@ -69,14 +69,18 @@ Experiences
 -----------
 
 - *Reviewer* for The Astrophysical Journal (ApJ) and the Monthly Notices of the Royal Astronomical Society (MNRAS)
-- *Co-supervisor* of University students for their final Theses:  
-  * Samuele Campitiello (Master Degree)
-  * Matteo Hakeem Kushoro (Bachelor Degree)
-  * Denny Zanchi (Bachelor Degree - Thesis discussed in February 2016)  
-- *Scientific Assistant* at the ESO OPC P94 and P93
+- *Scientific Assistant* at the ESO Observing Programmes Committee P94 and P93
 - *Studentship* at the European Southern Observatory, during the last year of the Ph.D. studies
 - *Stages* at the Brera Observatory (INAF-OAB) in Merate, to work on both my Bachelor and my Master Theses.
-
+- *Co-supervisor* of University students for their final Theses:  
+  * Samuele Campitiello (Master Degree)
+  * Matteo Hakeem Kushoro (Bachelor Degree - Thesis discussed in July 2016)
+  * Denny Zanchi (Bachelor Degree - Thesis discussed in February 2016)
+- **Outreach Activities**:
+  * Organizer of a stand on Gravitational Waves at 2016 European Researchers Night event [MEETmeTONIGHT](http://www.meetmetonight.it/), in Milan
+  * Various talks in high schools focused on different Astrophysics topics
+  * Organizer of a stand on Space Physics at 2015 European Researchers Night event MEETmeTONIGHT, in Milan
+  
 
 Computer Skills
 ---------------

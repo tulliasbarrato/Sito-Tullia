@@ -6,6 +6,10 @@ icon = "users"
 
 +++
 
+- [Talk](https://speakerdeck.com/tulliasbarrato/hidden-parents-of-high-z-blazars-quenching-and-dark-bubbles) at **Málaga Jet Meeting 2016**, “Blazars through Sharp Multi-Wavelength Eyes''  
+  *Talk title:* Hidden parents of high-z blazars: Quenching and Dark Bubbles  
+  Málaga (Spain), 30 May - 3 July 2016
+
 - [Colloqium talk](https://speakerdeck.com/tulliasbarrato/big-and-young-smbhs-in-the-early-universe) at ASTRON/JIVE  
   *Talk title:* Big and young SMBHs in the early Universe  
   Dwingeloo (The Netherlands), 12 November 2015

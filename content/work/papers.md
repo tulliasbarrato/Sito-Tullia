@@ -6,17 +6,17 @@ icon = "book"
 
 +++
 
-Impact index factor h=10, with 280 citations. 18 papers on refereed journals, 1 additional first author and 1 as second author submitted papers (source: ADS, 6 April 2016).
+Impact index factor h=11, with 312 citations. 19 papers on refereed journals, 1 additional first author paper accepted for publication and in press on a refereed journal (source: ADS, 5 August 2016).
 
-- [*Dark bubbles around high--redshift radio--loud AGN.*](http://adsabs.harvard.edu/abs/2016arXiv160305684G)  
-  G. Ghisellini, **T. Sbarrato**;  
-  submitted to MNRAS [arXiv:1603.05684]
-  
 - [*Extremes of the jet-accretion power relation of blazars, as explored by NuSTAR.*](http://adsabs.harvard.edu/abs/2015arXiv151008849S)  
   **T. Sbarrato**, G. Ghisellini, G. Tagliaferri, M. Perri, G.M. Madejski, D. Stern,
   S.E. Boggs, F.E. Christensen, W.W. Craig, C.J. Hailey, F.A. Harrison, W.W. Zhang;  
-  submitted to MNRAS [arXiv:1510.08849]
+  in press on MNRAS [arXiv:1510.08849]
 
+- [*Dark bubbles around high--redshift radio--loud AGN.*](http://adsabs.harvard.edu/abs/2016MNRAS.461L..21G)  
+  G. Ghisellini, **T. Sbarrato**;  
+  MNRAS (2016), 461, L21
+    
 - [*CMB quenching of high-redshift radio-loud AGNs.*](http://adsabs.harvard.edu/abs/2015MNRAS.452.3457G)  
   G. Ghisellini, F. Haardt, B. Ciardi, **T. Sbarrato**, E. Gallo, F. Tavecchio, A. Celotti;  
   MNRAS (2015), 452, pp. 3457-3469
